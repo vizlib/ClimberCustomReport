@@ -31,7 +31,7 @@ First thing to do is create a simple straight table and make it a master item. T
 
 <img src="./screenshots/CustomReport+.png?raw=true" alt="CustomReport+"/>
 
-For more information about Custom Report + and our subscription model please check out our extension <a href="https://www.climber.se/erbjudande/verktyg/climber-extensions-for-qlik-sense/"> page </a>.
+For more information about Custom Report + and our subscription model please check out our extension <a href="https://www.climberextensions.com"> page </a>.
 
 ## Setup
 
